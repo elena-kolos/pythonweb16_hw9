@@ -1,0 +1,202 @@
+[
+  {
+    "fullname": "Albert Einstein",
+    "url": "http://quotes.toscrape.com/login"
+  },
+  {
+    "fullname": "J.K. Rowling",
+    "url": "http://quotes.toscrape.com/tag/world/page/1/"
+  },
+  {
+    "fullname": "Jane Austen",
+    "url": "http://quotes.toscrape.com/tag/miracles/page/1/"
+  },
+  {
+    "fullname": "Marilyn Monroe",
+    "url": "http://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "fullname": "André Gide",
+    "url": "http://quotes.toscrape.com/tag/value/page/1/"
+  },
+  {
+    "fullname": "Thomas A. Edison",
+    "url": "http://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "fullname": "Eleanor Roosevelt",
+    "url": "http://quotes.toscrape.com/tag/paraphrased/page/1/"
+  },
+  {
+    "fullname": "Steve Martin",
+    "url": "http://quotes.toscrape.com/tag/misattributed-eleanor-roosevelt/page/1/"
+  },
+  {
+    "fullname": "Bob Marley",
+    "url": "http://quotes.toscrape.com/tag/understand/page/1/"
+  },
+  {
+    "fullname": "Dr. Seuss",
+    "url": "http://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "fullname": "Douglas Adams",
+    "url": "http://quotes.toscrape.com/tag/fantasy/page/1/"
+  },
+  {
+    "fullname": "Elie Wiesel",
+    "url": "http://quotes.toscrape.com/tag/navigation/page/1/"
+  },
+  {
+    "fullname": "Friedrich Nietzsche",
+    "url": "http://quotes.toscrape.com/tag/philosophy/page/1/"
+  },
+  {
+    "fullname": "Mark Twain",
+    "url": "http://quotes.toscrape.com/tag/unhappy-marriage/page/1/"
+  },
+  {
+    "fullname": "Allen Saunders",
+    "url": "http://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "fullname": "Pablo Neruda",
+    "url": "http://quotes.toscrape.com/login"
+  },
+  {
+    "fullname": "Ralph Waldo Emerson",
+    "url": "http://quotes.toscrape.com/tag/poetry/page/1/"
+  },
+  {
+    "fullname": "Mother Teresa",
+    "url": "http://quotes.toscrape.com/tag/happiness/page/1/"
+  },
+  {
+    "fullname": "Garrison Keillor",
+    "url": "http://quotes.toscrape.com/tag/attributed-no-source/page/1/"
+  },
+  {
+    "fullname": "Jim Henson",
+    "url": "http://quotes.toscrape.com/tag/religion/page/1/"
+  },
+  {
+    "fullname": "Charles M. Schulz",
+    "url": "http://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "fullname": "William Nicholson",
+    "url": "http://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "fullname": "Jorge Luis Borges",
+    "url": "http://quotes.toscrape.com/tag/wisdom/page/1/"
+  },
+  {
+    "fullname": "George Eliot",
+    "url": "http://quotes.toscrape.com/tag/library/page/1/"
+  },
+  {
+    "fullname": "George R.R. Martin",
+    "url": "http://quotes.toscrape.com/login"
+  },
+  {
+    "fullname": "C.S. Lewis",
+    "url": "http://quotes.toscrape.com/tag/reading-books/page/1/"
+  },
+  {
+    "fullname": "Martin Luther King Jr.",
+    "url": "http://quotes.toscrape.com/tag/attributed-no-source/page/1/"
+  },
+  {
+    "fullname": "James Baldwin",
+    "url": "http://quotes.toscrape.com/tag/dumbledore/page/1/"
+  },
+  {
+    "fullname": "Haruki Murakami",
+    "url": "http://quotes.toscrape.com/tag/music/page/1/"
+  },
+  {
+    "fullname": "Alexandre Dumas fils",
+    "url": "http://quotes.toscrape.com/tag/thought/page/1/"
+  },
+  {
+    "fullname": "Stephenie Meyer",
+    "url": "http://quotes.toscrape.com/tag/misattributed-to-einstein/page/1/"
+  },
+  {
+    "fullname": "Ernest Hemingway",
+    "url": "http://quotes.toscrape.com/tag/simile/page/1/"
+  },
+  {
+    "fullname": "Helen Keller",
+    "url": "http://quotes.toscrape.com/tag/novelist-quotes/page/1/"
+  },
+  {
+    "fullname": "George Bernard Shaw",
+    "url": "http://quotes.toscrape.com/tag/inspirational/page/1/"
+  },
+  {
+    "fullname": "Charles Bukowski",
+    "url": "http://quotes.toscrape.com/login"
+  },
+  {
+    "fullname": "Suzanne Collins",
+    "url": "http://quotes.toscrape.com/tag/alcohol/page/1/"
+  },
+  {
+    "fullname": "J.R.R. Tolkien",
+    "url": "http://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "fullname": "Alfred Tennyson",
+    "url": "http://quotes.toscrape.com/login"
+  },
+  {
+    "fullname": "Terry Pratchett",
+    "url": "http://quotes.toscrape.com/tag/humor/page/1/"
+  },
+  {
+    "fullname": "J.D. Salinger",
+    "url": "http://quotes.toscrape.com/tag/philosophy/page/1/"
+  },
+  {
+    "fullname": "George Carlin",
+    "url": "http://quotes.toscrape.com/tag/writing/page/1/"
+  },
+  {
+    "fullname": "John Lennon",
+    "url": "http://quotes.toscrape.com/tag/truth/page/1/"
+  },
+  {
+    "fullname": "W.C. Fields",
+    "url": "http://quotes.toscrape.com/tag/peace/page/1/"
+  },
+  {
+    "fullname": "Ayn Rand",
+    "url": "http://quotes.toscrape.com/tag/sinister/page/1/"
+  },
+  {
+    "fullname": "Jimi Hendrix",
+    "url": "http://quotes.toscrape.com/tag/truth/page/1/"
+  },
+  {
+    "fullname": "J.M. Barrie",
+    "url": "http://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "fullname": "E.E. Cummings",
+    "url": "http://quotes.toscrape.com/tag/love/page/1/"
+  },
+  {
+    "fullname": "Khaled Hosseini",
+    "url": "http://quotes.toscrape.com/tag/courage/page/1/"
+  },
+  {
+    "fullname": "Harper Lee",
+    "url": "http://quotes.toscrape.com/tag/life/page/1/"
+  },
+  {
+    "fullname": "Madeleine L'Engle",
+    "url": "http://quotes.toscrape.com/tag/better-life-empathy/page/1/"
+  }
+]
